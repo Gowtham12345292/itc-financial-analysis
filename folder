@@ -1,0 +1,8 @@
+itc-financial-analysis/
+├── chroma_db/                ✅ your Chroma DB directory (must include tenant & database)
+├── itc_financials.db         ✅ your SQLite database file
+├── requirements.txt          ✅ Python dependencies
+├── README.md                 ✅ project description (optional but good)
+└── src/
+    └── streamlit_app.py      ✅ your Streamlit app code
+
